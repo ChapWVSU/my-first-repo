@@ -9,3 +9,9 @@ def add(a, b):
     return a + b
 
 print(add(3, 5))
+
+def subtract(a, b):
+    """Subtracts the second parameter from the first"""
+    return a - b
+
+print(subtract(10, 4))
