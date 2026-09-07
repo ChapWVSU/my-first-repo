@@ -6,4 +6,4 @@ greet("World")
 def add(a, b):
     return a + b
 
-print(add(60, 7))
+print(add(3, 5))
